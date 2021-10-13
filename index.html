@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+<div class="articles">
+  {% for post in site.posts %}
+  <article class="card">
+    <div class="card-header">
+      <h1>{{ post.title }}</h1>
+    </div>
+
+    <div class="card-body">{{ post.excerpt }}</div>
+
+    <div class="card-footer">
+      <a
+        class="btn btn-primary btn-block"
+        href="{{ site.baseurl }}{{ post.url }}"
+        role="button"
+        >Read More</a
+      >
+    </div>
+  </article>
+  {% endfor %}
+</div>
