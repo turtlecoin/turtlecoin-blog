@@ -1,10 +1,10 @@
-
 # TurtleCoin Blog
-> Official TurtleCoin blog powered by Jekyll. All Articles reside on the _post folder.
+
+> Official TurtleCoin blog powered by Jekyll. All Articles reside on the \_post folder.
 
 ## Adding a new Article
 
-Make sure that the filename adheres to the following naming schema ``{YYYY}-{MM}{DD}-{slug}``. All blog posts are written in markdown and should start with a Jekyll header. Here is an example snippet:
+Make sure that the filename adheres to the following naming schema `{YYYY}-{MM}{DD}-{slug}`. All blog posts are written in markdown and should start with a Jekyll header. Here is an example snippet:
 
 ```
 ---
@@ -20,4 +20,4 @@ published: "2018-01-09T16:20:24.977Z"
 
 ```
 
-Markdown should not start with a ``# `` title. This is inserted by Jekyll using the title property in the header snippet.
+Markdown should not start with a `# ` title. This is inserted by Jekyll using the title property in the header snippet.
