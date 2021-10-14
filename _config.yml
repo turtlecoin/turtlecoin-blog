@@ -1,7 +1,9 @@
 url: https://blog.turtlecoin.com
 
-name: Blog
-description: TurtleCoin
+name: TurtleCoin® Blog
+description: TurtleCoin® is a decentralized Peer-2-Peer Open Source electronic currency. It's easy to get, completely private and ready for you today.
+author: TurtleCoin
+
 
 permalink: /:title/
 version: v1.2.0
@@ -15,6 +17,7 @@ kramdown:
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-json-feed
 
 exclude:
   - Gemfile
