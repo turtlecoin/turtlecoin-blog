@@ -1,6 +1,6 @@
 ---
 layout: "post"
-title: "Announcing Wrapped TurtleCoin (wTRTL) on the Fanton Opera Chain"
+title: "Announcing Wrapped TurtleCoin (wTRTL) on the Fantom Opera Chain"
 description: "If you know someone who has problems with reading comprehension, please hold their hand gently and read them this article. I’m typing this article to prove in the most vocal way possible that there…"
 image: "{{ site.baseurl }}/images/0tDUmt2Y4d26-vXDP.gif"
 date: "2021-11-28T18:50:00.506Z"
