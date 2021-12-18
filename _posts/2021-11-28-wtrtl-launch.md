@@ -73,7 +73,7 @@ The gas fees for wrapping plus 0.1 FTM (sent to you) are paid in TRTL and the eq
 Put simply, to send transactions on the Fantom Opera Chain, you need FTM to pay gas fees. Without FTM, you'd be unable to send your wTRTL to anyone else without acquiring FTM and thus your wTRTL would be "stuck". We've made sending you 0.1 FTM part of the swap process to help prevent you from getting your wTRTL stuck.
 
 # Do I have to wrap my TRTL?
-You don't have to do it right away; however, the v1 chain is scheduled to stop at block 5,500,000 (approximately March 12, 2023, see status banner at the top of the [explorer](https://explorer.turtlecoin.ool)) so if you don't wrap by then you'll be stuck with a whole lot of nothing. Remember, there is a 60 block confirmation requirement for the TRTL you send in so do not wait until block 5,499,999 :).
+You don't have to do it right away; however, the v1 chain is scheduled to stop at block 5,500,000 (approximately March 12, 2023, see status banner at the top of the [explorer](https://explorer.turtlecoin.lol)) so if you don't wrap by then you'll be stuck with a whole lot of nothing. Remember, there is a 60 block confirmation requirement for the TRTL you send in so do not wait until block 5,499,999 :).
 
 # What happens to the remaining unclaimed wTRTL at the end of the wrap/swap period?
 We'll burn any remaining unclaimed wTRTL by sending a transaction on the Fantom Network via the multisig Gnosis Safe.
