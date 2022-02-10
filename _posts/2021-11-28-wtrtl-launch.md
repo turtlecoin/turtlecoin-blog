@@ -96,3 +96,6 @@ Sure can. See the swagger docs at [https://swap-api.turtlecoin.com/](https://swa
 
 # What's next for TurtleCoin?
 Stay tuned for further information as wTRTL opens up a world of possibilities for the community when it comes to development of additional use cases for TurtleCoin.
+
+# Is wTRTL listed on CoinMarketCap?
+We've requested listing via ticket #395513. We'll see how it goes.
